@@ -1,4 +1,4 @@
-# How to generate numbers 
+# How to generate pseudo random numbers
 ## By Ali Shannon
 
 Most natural phenomenon such as weather are not easily predictable since they cannot be reproduced over and over again for testing via the scientific method, there are also certain data that can be observed long enough to estimate a distribution from, such as the rate at which droplets fall from a leaky faucet. We can observe the latter for long enough time to make a kernel density estimate of what the distribution may be like.
